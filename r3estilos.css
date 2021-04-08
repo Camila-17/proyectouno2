@@ -1,0 +1,49 @@
+h1{
+    font-size: 40px;
+    color:black;
+    Font-weight:bold;
+    font-family: 'Permanent Marker', cursive;
+ 
+}
+ 
+h2{
+    font-size: 32px;
+    color:black;
+    Font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+ 
+}
+ 
+.pext{
+    font-size: 22px;
+    font-family: "Comic Sans MS";
+    font-style: italic;
+}
+ 
+body{
+    background-color:silver;
+}
+ 
+footer{
+    
+    background-color:black;
+}
+ 
+.pdatos{
+    color:blanchedalmond;
+    font-size: 18px;
+    text-align: center;
+ 
+}
+ 
+li{
+    color:black;
+    font-size: 22px;
+}
+ 
+a{
+    color:black;
+    font-size: 22px;
+}
+ 
+ 
