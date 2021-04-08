@@ -1,0 +1,55 @@
+h1{
+    font-size: 40px;
+    color:black;
+    font-family: 'Permanent Marker', cursive;
+}
+ 
+h2{
+    font-size: 32px;
+    color:black;
+    font-family: 'Permanent Marker', cursive;
+}
+ 
+p{
+    font-size: 22px;
+    color:black;
+    text-align:left;
+    font-family:"Comic Sans MS";
+}
+ 
+.parrafo{
+    font-size: 22px;
+    color:black;
+    text-align:left;
+    font-family:"Comic Sans MS"
+}
+ 
+h3{
+    font-size: 32px;
+    color:black;
+    font-family: 'Permanent Marker', cursive;
+}
+ 
+body{
+    background-color:silver;
+}
+ 
+li{
+    color:black;
+    font-size: 22px;
+}
+ 
+a{
+    color:black;
+    font-size: 22px;
+} 
+ 
+footer{
+    background-color: black;
+}
+ 
+.in1{
+    color:blanchedalmond;
+    text-align: center;
+    font-size: 18px;
+}
